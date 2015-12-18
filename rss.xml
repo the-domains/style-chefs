@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Style Chefs]]></title>
         <description><![CDATA[Style Chefs]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/style-chefs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Dec 2015 14:56:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 18 Dec 2015 15:48:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/style-chefs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad421e09-f8a5-4a2c-ab80-f844a8817d48.jpg">]]></description>
+            <link>https://thegrid.ai/style-chefs/d2ccdcb2-64b8-4d3c-8daf-e5f207476d94/index.html</link>
+            <guid isPermaLink="false">d2ccdcb2-64b8-4d3c-8daf-e5f207476d94</guid>
+            <pubDate>Fri, 18 Dec 2015 15:47:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Work, Gas, and Raw products</p>]]></description>
-            <link>undefinedcb84c70e-be26-46bb-8558-5d8d0993db57/index.html</link>
+            <link>https://thegrid.ai/style-chefs/cb84c70e-be26-46bb-8558-5d8d0993db57/index.html</link>
             <guid isPermaLink="false">cb84c70e-be26-46bb-8558-5d8d0993db57</guid>
             <pubDate>Fri, 18 Dec 2015 14:55:42 GMT</pubDate>
         </item>
