@@ -1,6 +1,6 @@
 name: Style Chefs
 favicon: null
-layout_spectrum: 0.2661
+layout_spectrum: 0.74207
 typography_spectrum: 0.57179
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#8a8889'
     - '#676566'
   brandStrength: 0.7132810859475285
-  lightness: 0.5
-  saturation: 0.5
+  lightness: 0.75
+  saturation: 0.6875
   rhythmicContrast: 0.75
 purpose: []
