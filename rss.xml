@@ -4,7 +4,7 @@
         <description><![CDATA[Style Chefs]]></description>
         <link>https://thegrid.ai/style-chefs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Dec 2015 09:31:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Dec 2015 09:31:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/style-chefs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/style-chefs/061d4bde-b733-452a-a6b2-8249e0235289/index.html</link>
             <guid isPermaLink="false">061d4bde-b733-452a-a6b2-8249e0235289</guid>
             <pubDate>Sat, 19 Dec 2015 08:50:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Work, Gas, and Raw products</p>]]></description>
+            <link>https://thegrid.ai/style-chefs/cb84c70e-be26-46bb-8558-5d8d0993db57/index.html</link>
+            <guid isPermaLink="false">cb84c70e-be26-46bb-8558-5d8d0993db57</guid>
+            <pubDate>Fri, 18 Dec 2015 14:55:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
