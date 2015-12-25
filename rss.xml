@@ -4,8 +4,15 @@
         <description><![CDATA[Style Chefs]]></description>
         <link>https://thegrid.ai/style-chefs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Dec 2015 12:23:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Dec 2015 12:28:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/style-chefs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2690b92-8679-488c-ba5b-84945a00cbd8.jpg">]]></description>
+            <link>https://thegrid.ai/style-chefs/061d4bde-b733-452a-a6b2-8249e0235289/index.html</link>
+            <guid isPermaLink="false">061d4bde-b733-452a-a6b2-8249e0235289</guid>
+            <pubDate>Fri, 25 Dec 2015 12:27:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d674a5c5-c341-469e-8fc1-d93fb28c9057.jpg">]]></description>
@@ -47,13 +54,6 @@
             <link>https://thegrid.ai/style-chefs/a618ff44-932d-42cb-952e-233395874622/index.html</link>
             <guid isPermaLink="false">a618ff44-932d-42cb-952e-233395874622</guid>
             <pubDate>Fri, 25 Dec 2015 12:01:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2690b92-8679-488c-ba5b-84945a00cbd8.jpg">]]></description>
-            <link>https://thegrid.ai/style-chefs/061d4bde-b733-452a-a6b2-8249e0235289/index.html</link>
-            <guid isPermaLink="false">061d4bde-b733-452a-a6b2-8249e0235289</guid>
-            <pubDate>Sat, 19 Dec 2015 08:50:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
