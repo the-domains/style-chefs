@@ -4,7 +4,7 @@
         <description><![CDATA[Style Chefs]]></description>
         <link>https://thegrid.ai/style-chefs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Dec 2015 13:44:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Dec 2015 14:57:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/style-chefs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/style-chefs/061d4bde-b733-452a-a6b2-8249e0235289/index.html</link>
             <guid isPermaLink="false">061d4bde-b733-452a-a6b2-8249e0235289</guid>
             <pubDate>Fri, 25 Dec 2015 12:27:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/35751adb-6d31-481d-9c24-eadefaf59581.jpg">]]></description>
+            <link>https://thegrid.ai/style-chefs/7b965132-3db9-4473-92d4-d1b9e8c560a0/index.html</link>
+            <guid isPermaLink="false">7b965132-3db9-4473-92d4-d1b9e8c560a0</guid>
+            <pubDate>Mon, 28 Dec 2015 14:57:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/style-chefs/f5fdefef-fa7d-428e-8932-1b2ec4938154/index.html</link>
             <guid isPermaLink="false">f5fdefef-fa7d-428e-8932-1b2ec4938154</guid>
             <pubDate>Thu, 24 Dec 2015 11:15:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[richard john simmons]]></title>
-            <description><![CDATA[<article><h1>richard john simmons</h1><p>Freelance Chef  | Menu Consultant | Private Chef for Events </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2decb180fa39d5c308aa8e9418bf6bf431dd0f01.jpg"></article>]]></description>
-            <link>https://thegrid.ai/style-chefs/a618ff44-932d-42cb-952e-233395874622/index.html</link>
-            <guid isPermaLink="false">a618ff44-932d-42cb-952e-233395874622</guid>
-            <pubDate>Fri, 25 Dec 2015 12:01:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
