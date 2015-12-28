@@ -4,7 +4,7 @@
         <description><![CDATA[Style Chefs]]></description>
         <link>https://thegrid.ai/style-chefs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Dec 2015 15:02:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Dec 2015 21:42:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/style-chefs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/style-chefs/061d4bde-b733-452a-a6b2-8249e0235289/index.html</link>
             <guid isPermaLink="false">061d4bde-b733-452a-a6b2-8249e0235289</guid>
             <pubDate>Fri, 25 Dec 2015 12:27:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5c749a9-3f68-4cfd-89cf-d0bda529279a.jpg">]]></description>
+            <link>https://thegrid.ai/style-chefs/04e46997-2cc7-4ba5-8b47-c71fca0fe4c9/index.html</link>
+            <guid isPermaLink="false">04e46997-2cc7-4ba5-8b47-c71fca0fe4c9</guid>
+            <pubDate>Mon, 28 Dec 2015 21:42:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/style-chefs/43ec0e6d-d73f-4efa-b2f7-224da04f478d/index.html</link>
             <guid isPermaLink="false">43ec0e6d-d73f-4efa-b2f7-224da04f478d</guid>
             <pubDate>Fri, 25 Dec 2015 12:04:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e705617f-a02b-479b-adc4-e0aa5d1705b3.jpg">]]></description>
-            <link>https://thegrid.ai/style-chefs/9b6d090c-8c7d-48e4-a353-9f5bcdf71174/index.html</link>
-            <guid isPermaLink="false">9b6d090c-8c7d-48e4-a353-9f5bcdf71174</guid>
-            <pubDate>Fri, 25 Dec 2015 12:41:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
