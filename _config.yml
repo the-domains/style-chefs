@@ -1,6 +1,6 @@
 name: Style Chefs
 favicon: null
-layout_spectrum: 0.24925
+layout_spectrum: 0.74649
 typography_spectrum: 0.57179
 title: Style Chefs
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
     - '#231f20'
-    - '#dddcdc'
-    - '#8a8889'
-    - '#676566'
+    - '#ffffff'
+    - '#4f4c4d'
+    - '#d3d2d2'
+    - '#767374'
   brandStrength: 0
   lightness: 0.5
   saturation: 0.1875
