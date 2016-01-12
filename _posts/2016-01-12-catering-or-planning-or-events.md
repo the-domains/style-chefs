@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-12T15:49:34.665Z'
-dateModified: '2016-01-12T15:49:15.126Z'
+datePublished: '2016-01-12T21:43:50.449Z'
+dateModified: '2016-01-12T21:43:44.079Z'
 title: 'Catering | Planning | Events'
 author: []
+sourcePath: _posts/2016-01-12-catering-or-planning-or-events.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-12-catering-or-planning-or-events.md
-published: true
 url: catering-or-planning-or-events/index.html
 _type: WebPage
 
