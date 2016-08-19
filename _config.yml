@@ -1,20 +1,4 @@
-name: Style Chefs
-favicon: null
-layout_spectrum: 0.74649
 typography_spectrum: 0.57179
-title: Style Chefs
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#231f20'
@@ -26,4 +10,24 @@ color:
   lightness: 0.5
   saturation: 0.1875
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.74649
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Style Chefs
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Who i am | Contact | info
+    id: af10cb73-f226-4fd1-8034-a9e74a971a6c
+    type: content
+favicon: null
+title: Style Chefs
 purpose: []
