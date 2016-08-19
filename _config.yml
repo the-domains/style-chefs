@@ -28,6 +28,9 @@ navigation:
   - name: Who i am | Contact | info
     id: af10cb73-f226-4fd1-8034-a9e74a971a6c
     type: content
+  - name: Catering | Planning | Events
+    id: 93d81886-951a-4565-9dfa-ddda5d48674f
+    type: content
 favicon: null
 title: Style Chefs
 purpose: []
