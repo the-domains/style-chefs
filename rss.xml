@@ -4,7 +4,7 @@
         <description><![CDATA[Style Chefs]]></description>
         <link>https://thegrid.ai/style-chefs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Aug 2016 20:56:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 14:36:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/style-chefs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/style-chefs/a618ff44-932d-42cb-952e-233395874622/index.html</link>
             <guid isPermaLink="false">a618ff44-932d-42cb-952e-233395874622</guid>
             <pubDate>Fri, 01 Jan 2016 15:13:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc797116-1c7b-4f80-861e-c9a86029a81f.jpg">]]></description>
+            <link>https://thegrid.ai/style-chefs/ac1103c1-10ab-41d2-bb12-9beabcfd08a4/index.html</link>
+            <guid isPermaLink="false">ac1103c1-10ab-41d2-bb12-9beabcfd08a4</guid>
+            <pubDate>Thu, 25 Aug 2016 14:34:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Best things in Life are on your doorstep....]]></title>
@@ -61,20 +68,6 @@
             <link>https://thegrid.ai/style-chefs/6885cf9a-efc0-4f5b-bc3c-fd495fa7a24e/index.html</link>
             <guid isPermaLink="false">6885cf9a-efc0-4f5b-bc3c-fd495fa7a24e</guid>
             <pubDate>Fri, 01 Jan 2016 14:21:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/35751adb-6d31-481d-9c24-eadefaf59581.jpg">]]></description>
-            <link>https://thegrid.ai/style-chefs/7b965132-3db9-4473-92d4-d1b9e8c560a0/index.html</link>
-            <guid isPermaLink="false">7b965132-3db9-4473-92d4-d1b9e8c560a0</guid>
-            <pubDate>Mon, 28 Dec 2015 14:57:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/413addec-41eb-4120-b4ac-1424880cbdf0.jpg">]]></description>
-            <link>https://thegrid.ai/style-chefs/06e5e166-3df9-4b96-a457-db3c1b3397e1/index.html</link>
-            <guid isPermaLink="false">06e5e166-3df9-4b96-a457-db3c1b3397e1</guid>
-            <pubDate>Sun, 27 Dec 2015 13:44:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
